@@ -6,7 +6,7 @@
 
 Simple CRUD application to manage notes.
 
-Made as SPA (react), back-end in node.js, without database, only static data, so all changes are lost on restart.
+Made as SPA (react, context API, typescript), back-end in node.js, without database, only static data, so all changes are lost on restart.
 
 App can run even without server.
 
