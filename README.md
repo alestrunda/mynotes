@@ -10,6 +10,8 @@ Made as SPA (react), back-end in node.js, without database, only static data, so
 
 App can run even without server.
 
+Languages: English (default) and Czech.
+
 ## Installation
 
 Run `npm install` or `yarn` in both folders **client** and **server**. Both parts can run separately.
