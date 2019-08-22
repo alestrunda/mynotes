@@ -28,6 +28,10 @@ Runs the app in the development mode.
 
 Launches the test runner in the interactive watch mode.
 
+### `npm run cypress`
+
+Launches the Cypress test runner.
+
 ### `npm run build`
 
 Builds the app for production to the `build` folder.
